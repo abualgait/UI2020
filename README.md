@@ -2,5 +2,5 @@
 
 # 2020 fresh launch with fresh UI
  
- <img src="https://github.com/abualgait/NearBy/blob/master/nearby_screenshot.png"  width="200" height="400" >
+ <img src="https://github.com/abualgait/UI2020/blob/master/2020.png"  width="200" height="400" >
  
