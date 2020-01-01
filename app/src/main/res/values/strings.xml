@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TransportationUI</string>
+    <string-array name="periods">
+        <item>Weekly</item>
+        <item>Daily</item>
+        <item>Monthly</item>
+        <item>Annual</item>
+
+    </string-array>
+</resources>
